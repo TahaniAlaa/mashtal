@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202121639516",
+    "project_id": "ecommer-7f3bb",
+    "storage_bucket": "ecommer-7f3bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202121639516:android:4a9efd79bfcfeeff66d899",
+        "android_client_info": {
+          "package_name": "com.example.plantation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202121639516-1gv7p0vdjvcp8mnfjo9c1butrpp9rmva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkbHUM_BBJCx3ACtGfNdT1yHv_ZsLEXmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202121639516-1gv7p0vdjvcp8mnfjo9c1butrpp9rmva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
